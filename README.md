@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus rodrigues</h1>
+<h1 align="center">Hi 👋, I'm Matheus Rodrigues</h1>
 <h3 align="center">Student at UnB - University of Brasilia, Brazil🌟.</h3>
 
 
